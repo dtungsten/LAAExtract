@@ -3,7 +3,7 @@
 # Licence: GPL
 
 import zlib,os,sys,struct
-
+ 
 pc = {
 'atlantis': {
   'name': 'Indiana Jones and the Fate of Atlantis',
