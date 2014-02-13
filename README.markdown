@@ -27,8 +27,10 @@ Thanks
 ------
 
 [somaen](https://github.com/somaen) for the offset in MacOS version of "Fate of Atlantis"
+apprentice_fu for figuring out the format of CDDA.SOU
 
 TODO
 ----
 + Code needs refactoring  
 + Auto detect SteamApps folder in Windows
++ Testing of CDDA.SOU conversion in Windows
