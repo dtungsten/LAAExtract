@@ -27,6 +27,7 @@ Thanks
 ------
 
 [somaen](https://github.com/somaen) for the offset in MacOS version of "Fate of Atlantis"
+
 apprentice_fu for figuring out the format of CDDA.SOU
 
 TODO
